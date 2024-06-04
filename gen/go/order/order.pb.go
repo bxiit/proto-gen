@@ -7,7 +7,7 @@
 package order
 
 import (
-	catalogue "github.com/sntabq/proto-gen/gen/go/catalogue"
+	catalogue "github.com/bxiit/proto-gen/gen/go/catalogue"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"

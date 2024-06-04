@@ -1,4 +1,4 @@
-module github.com/sntabq/proto-gen
+module github.com/bxiit/proto-gen
 
 go 1.21
 
